@@ -49,7 +49,10 @@ From Overview: You should also include a README.md in the repo with your scripts
 From Question: You should include a README.md in the repo describing how the script works.
 
 From Evaluation: I was able to follow the README in the directory that explained what the analysis files did.
+
+
 Data Analysis Explanation
+
 For 1st tiny data set:
 
     Read data sets and combine them
@@ -66,6 +69,7 @@ For 1st tiny data set:
     Write tiny data set to file
 
 For 2nd tiny data set: average of measurement for activity and subject
+
 
     Prepare empty data set of appropriate length for
     Loop through subjects, then subloop through activities
