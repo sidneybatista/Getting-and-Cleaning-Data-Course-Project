@@ -78,7 +78,6 @@ For 1st tiny data set:
 
 For 2nd tiny data set: average of measurement for activity and subject
 
-
     Prepare empty data set of appropriate length for
     Loop through subjects, then subloop through activities
     For each activity in a subject, get the full list of measurements
