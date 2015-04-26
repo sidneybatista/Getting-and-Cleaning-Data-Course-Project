@@ -31,6 +31,7 @@ Tidy Data Set
 From Question: Please upload a tidy data set according to the instructions in the project description. Please upload your data set as a separate file (do not cut and paste a dataset directly into the text box, as this may cause errors saving your submission).
 
 From Evaluation: Has the student submitted a tidy data set?
+
 Second Data Set
 
 From Question: Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
@@ -48,6 +49,7 @@ Code Book
 From Overview: A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
 
 From Evaluation: Please submit a code book that modifies and updates the codebooks available to you with the data to indicate all the variables and summaries you calculated, along with units, and any other relevant information.
+
 README
 
 From Overview: You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
