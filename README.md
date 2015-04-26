@@ -23,7 +23,9 @@ You should create one R script called run_analysis.R that does the following.
     Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Good luck!
+
 Evaluation Checklist
+
 Tidy Data Set
 
 From Question: Please upload a tidy data set according to the instructions in the project description. Please upload your data set as a separate file (do not cut and paste a dataset directly into the text box, as this may cause errors saving your submission).
