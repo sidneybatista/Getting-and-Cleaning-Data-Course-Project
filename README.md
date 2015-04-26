@@ -38,7 +38,11 @@ Github Repo with Required Scripts
 
 From Question: Please submit a link to a Github repo with the code for performing your analysis. The code should have a file run_analysis.R in the main directory that can be run as long as the Samsung data is in your working directory. The output should be the tidy data set you submitted for part 1.
 
-From Evaluation: Did the student submit a Github repo with the required scripts?
+From Evaluation: 
+
+Did the student submit a Github repo with the required scripts?
+
+
 Code Book
 
 From Overview: A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
